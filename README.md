@@ -1,26 +1,20 @@
 <div align="center">
 
-<!-- 🔥 ANIMATED FIRE HEADER -->
+<!-- 🔥 PREMIUM FIRE HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,45:7A2E00,75:FF6A00,100:FFD000&text=Anas%20Iqbal041&fontSize=62&fontColor=FFD000&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20DevOps%20%7C%20SaaS%20%7C%20Automation&descAlignY=58&descSize=18&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,45:7A2E00,75:FF6A00,100:FFD000&text=Anas%20Iqbal041&fontSize=62&fontColor=FFD000&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20MERN%20%7C%20SaaS%20%7C%20Automation&descAlignY=58&descSize=18&descAlign=50"/>
 
-<!-- 🔥 TYPING ANIMATION -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&multiline=true&width=920&height=80&lines=Building+SaaS+%26+CRM+Platforms;Automating+with+n8n+%26+APIs;Shipping+Scalable+Web+Systems;Open+to+Collaboration+%26+Remote+Work"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Building+Scalable+MERN+Applications;SaaS+%7C+CRM+%7C+AI+%7C+Automation;Turning+Ideas+Into+Production+Systems"/>
 
 <br/>
 
-<!-- 🔥 STATUS BADGES -->
-
-<img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-FF6A00?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/📍_LOCATION-ISLAMABAD,_PK-FF8C00?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-REMOTE_•_RELOCATION-FFD000?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🔥_ONLINE-FF6A00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📍_PAKISTAN-FF8C00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-FFD000?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
-<!-- TECH ICONS -->
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,php,mongodb,postgres,docker,kubernetes,aws,nginx,linux,git&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,git,linux&perline=6&theme=dark"/>
 
 </div>
 
@@ -29,154 +23,38 @@
 ## 👨‍💻 `whoami`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     FULL STACK ENGINEER                      │
+╭──────────────────────────────────────────────────────────────╮
+│  ANAS IQBAL041                                               │
+│  Full Stack MERN Developer • 5+ Years Experience             │
 ├──────────────────────────────────────────────────────────────┤
+│  ⚛ Frontend   React • Next.js • TypeScript                   │
+│  🟢 Backend    Node.js • Express • REST APIs                  │
+│  🍃 Database   MongoDB • PostgreSQL                           │
+│  ☁ DevOps     Docker • AWS • Nginx • Linux                   │
+│  🤖 Automation n8n • Webhooks • AI APIs                       │
 │                                                              │
-│  Name        : Anas Iqbal041                                 │
-│  Role        : Full Stack MERN Developer                     │
-│  Focus       : SaaS • CRM • LMS • E-Commerce • Automation    │
-│  Experience  : 5+ Years                                     │
-│  Mission     : Build → Automate → Scale → Ship              │
-│                                                              │
-│  Frontend    : React • Next.js • TypeScript                  │
-│  Backend     : Node.js • Express.js • REST APIs              │
-│  Database    : MongoDB • PostgreSQL                          │
-│  DevOps      : Docker • AWS • Nginx • Linux                  │
-│  Automation  : n8n • Webhooks • API Integrations             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+│  Build → Automate → Scale → Ship                             │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-> **I build scalable web products, SaaS platforms and automation systems that turn ideas into production-ready software.**
+> **Full Stack developer focused on scalable MERN applications, SaaS platforms, CRM systems, AI integrations and automation.**
 
 ---
 
-# ⚡ Full Stack Engineering
+# ⚡ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ⚛️ FRONTEND
-
-React.js
-Next.js
-TypeScript
-JavaScript
-Tailwind CSS
-Responsive UI
-State Management
-Performance
-
-</td>
-
-<td align="center" width="25%">
-
-### 🟢 BACKEND
-
-Node.js
-Express.js
-REST APIs
-Authentication
-JWT
-RBAC
-Webhooks
-API Security
-
-</td>
-
-<td align="center" width="25%">
-
-### 🍃 DATABASE
-
-MongoDB
-Mongoose
-PostgreSQL
-Database Design
-Aggregation
-Query Optimization
-Data Modeling
-Multi-Tenant DB
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️ DEVOPS
-
-Docker
-AWS
-Nginx
-Linux
-CI/CD
-Git
-Production Deployments
-Server Management
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🧰 Tech Arsenal
-
-## 🌐 Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux&perline=8&theme=dark"/>
-
-</div>
+|  Frontend  |     Backend    |  Database  | DevOps |
+| :--------: | :------------: | :--------: | :----: |
+|    React   |     Node.js    |   MongoDB  | Docker |
+|   Next.js  |   Express.js   | PostgreSQL |   AWS  |
+| TypeScript |    REST APIs   |    Redis   |  Nginx |
+|  Tailwind  | Authentication |  Mongoose  |  Linux |
 
 <br/>
 
-## 🟢 Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,fastapi&perline=8&theme=dark"/>
-
-</div>
-
-<br/>
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&perline=8&theme=dark"/>
-
-</div>
-
-<br/>
-
-## ☁️ DevOps & Cloud
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git,github,gitlab&perline=8&theme=dark"/>
-
-</div>
-
-<br/>
-
-## ⚙️ Automation & Integrations
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postman,graphql&perline=8&theme=dark"/>
-
-<br/><br/>
-
-`n8n` • `REST APIs` • `Webhooks` • `OAuth` • `AI APIs` • `Payment APIs`
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,mongodb,postgresql,redis,docker,aws,nginx,linux,git,github&perline=8&theme=dark"/>
 
 </div>
 
@@ -187,97 +65,85 @@ Server Management
 <div align="center">
 
 <table>
-
 <tr>
-<td width="50%">
 
-## 🏢 SaaS Platforms
+<td width="33%" align="center">
 
-* Multi-tenant architecture
-* Subscription systems
-* Admin dashboards
-* Role-based access
-* Analytics
-* Billing integrations
-* Scalable APIs
+### 🏢 SaaS
+
+Multi-tenant platforms
+Subscriptions
+Dashboards
+RBAC
+Analytics
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 CRM
+
+Leads
+Sales pipelines
+Automation
+Reports
+Team workflows
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## 📊 CRM Systems
+### 🛒 E-Commerce
 
-* Lead management
-* Sales pipelines
-* Customer management
-* Automated workflows
-* Team management
-* Reporting
-* API integrations
+Products
+Checkout
+Payments
+Orders
+Inventory
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-## 🛒 E-Commerce
+<td width="33%" align="center">
 
-* Product catalogs
-* Shopping carts
-* Checkout systems
-* Payment integrations
-* Order management
-* Inventory
-* Admin panels
+### 🎓 LMS
+
+Courses
+Enrollment
+Assessments
+Progress
+Dashboards
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI & Automation
+
+n8n
+Webhooks
+AI APIs
+Chatbots
+API orchestration
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## 🎓 LMS Platforms
+### 🏥 Healthcare
 
-* Courses
-* Enrollment
-* Assessments
-* Student dashboards
-* Instructor panels
-* Progress tracking
-* Certificates
+Hospital platforms
+Patient workflows
+Management systems
+Dashboards
+RBAC
 
 </td>
+
 </tr>
-
-<tr>
-<td width="50%">
-
-## 🏥 Healthcare Systems
-
-* Hospital websites
-* Patient workflows
-* Staff management
-* Healthcare information
-* Dashboards
-* Reporting
-* Role-based access
-
-</td>
-
-<td width="50%">
-
-## 🤖 Automation & AI
-
-* n8n workflows
-* Webhooks
-* API orchestration
-* AI integrations
-* Chatbots
-* Email automation
-* CRM automation
-
-</td>
-</tr>
-
 </table>
 
 </div>
@@ -285,8 +151,6 @@ Server Management
 ---
 
 # 🏗️ Featured Projects
-
-> Selected web applications, SaaS platforms, business systems and digital products I've worked on.
 
 <div align="center">
 
@@ -296,25 +160,25 @@ Server Management
 
 <td width="50%">
 
-## 🚗 AutoFinder.pk
+### 🚗 AutoFinder.pk
 
-**Automotive Marketplace / Platform**
+**Automotive Marketplace**
 
-A modern automotive platform focused on vehicle discovery, listings and automotive business workflows.
+Vehicle discovery, listings and automotive business workflows.
 
-`Full Stack` `Automotive` `Marketplace`
+`MERN` `Marketplace`
 
 </td>
 
 <td width="50%">
 
-## 💻 Codeova.pk
+### 💻 Codeova.pk
 
-**Modern Digital Platform**
+**Digital Platform**
 
-A full-stack digital platform built around modern web experiences, application workflows and scalable architecture.
+Modern web platform with scalable application workflows.
 
-`Full Stack` `Web Platform` `SaaS`
+`Full Stack` `SaaS`
 
 </td>
 
@@ -324,25 +188,25 @@ A full-stack digital platform built around modern web experiences, application w
 
 <td width="50%">
 
-## 🍣 Sushihanai
+### 🍣 Sushihanai
 
-**Restaurant & Food Platform**
+**Restaurant Platform**
 
-A modern restaurant-focused web experience designed around food, customer interaction and digital business workflows.
+Modern restaurant and food-focused digital experience.
 
-`Full Stack` `Restaurant` `Web Application`
+`Full Stack` `Web App`
 
 </td>
 
 <td width="50%">
 
-## 🚘 Karzone
+### 🚘 Karzone
 
 **Automotive Platform**
 
-A vehicle-focused digital platform with modern interfaces, automotive workflows and business functionality.
+Vehicle-focused platform with modern business workflows.
 
-`Full Stack` `Automotive` `Web Platform`
+`MERN` `Automotive`
 
 </td>
 
@@ -352,25 +216,25 @@ A vehicle-focused digital platform with modern interfaces, automotive workflows 
 
 <td width="50%">
 
-## 🛵 DoorDash
+### 🛵 DoorDash
 
 **Food Delivery Platform**
 
-A delivery-focused platform involving customers, restaurants, orders and delivery workflows.
+Customers, restaurants, orders and delivery workflows.
 
-`Full Stack` `Delivery` `Web Application`
+`Full Stack` `Delivery`
 
 </td>
 
 <td width="50%">
 
-## 🏢 Burak
+### 🏢 Burak
 
-**Business Web Platform**
+**Business Platform**
 
-A modern full-stack business application designed around scalable web architecture and digital workflows.
+Scalable business application and digital workflows.
 
-`Full Stack` `Business Platform` `SaaS`
+`Full Stack` `SaaS`
 
 </td>
 
@@ -380,25 +244,25 @@ A modern full-stack business application designed around scalable web architectu
 
 <td width="50%">
 
-## 🎓 LMS System
+### 🎓 LMS System
 
 **Learning Management System**
 
-A complete learning platform focused on courses, students, instructors, enrollment and educational workflows.
+Courses, students, instructors, enrollment and progress.
 
-`MERN` `LMS` `Dashboard`
+`MERN` `LMS`
 
 </td>
 
 <td width="50%">
 
-## 🏥 Hospital Management System
+### 🏥 Hospital Management
 
-**Healthcare Management Platform**
+**Healthcare Platform**
 
-A full-stack hospital management solution focused on healthcare operations, patient workflows, staff management and administrative processes.
+Hospital operations, patient workflows and administration.
 
-`Full Stack` `Healthcare` `Management System`
+`Full Stack` `Healthcare`
 
 </td>
 
@@ -408,23 +272,23 @@ A full-stack hospital management solution focused on healthcare operations, pati
 
 <td width="50%">
 
-## 📊 CRM System
+### 📊 CRM System
 
 **Customer Relationship Management**
 
-A business CRM focused on leads, customers, sales pipelines, team workflows, reporting and automation.
+Leads, customers, sales pipelines, reporting and automation.
 
-`MERN` `CRM` `REST APIs`
+`MERN` `CRM`
 
 </td>
 
 <td width="50%">
 
-## 🤖 AI Chatbot
+### 🤖 AI Chatbot
 
-**Intelligent Conversational Platform**
+**AI Conversational Platform**
 
-An AI-powered chatbot integrating modern AI services, APIs and automated conversational workflows.
+AI services, APIs and automated conversational workflows.
 
 `AI` `APIs` `Automation`
 
@@ -436,25 +300,25 @@ An AI-powered chatbot integrating modern AI services, APIs and automated convers
 
 <td width="50%">
 
-## 🏥 AMCGlt
+### 🏥 AMCGlt
 
-**Hospital & Healthcare Website**
+**Hospital Website**
 
-A modern hospital website focused on healthcare services, hospital information, patient-facing experiences and digital healthcare workflows.
+Healthcare services, hospital information and patient-facing experience.
 
-`Healthcare` `Hospital Website` `Full Stack`
+`Healthcare` `Full Stack`
 
 </td>
 
 <td width="50%">
 
-## 🇦🇹 Vienna Travel Agency
+### 🇦🇹 Vienna Travel Agency
 
-**Travel & Tourism Platform**
+**Travel Platform**
 
-A modern travel agency website focused on destinations, travel services, packages and customer inquiries.
+Travel services, destinations, packages and customer inquiries.
 
-`Travel Agency` `Tourism` `Web Platform`
+`Travel` `Tourism`
 
 </td>
 
@@ -466,106 +330,75 @@ A modern travel agency website focused on destinations, travel services, package
 
 ---
 
-# 🧠 Engineering Approach
+# 🧠 Engineering Flow
+
+<div align="center">
 
 ```text
-                    ┌─────────────────┐
-                    │      IDEA       │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │   ARCHITECTURE  │
-                    └────────┬────────┘
-                             ↓
-              ┌──────────────┴──────────────┐
-              ↓                             ↓
-       ┌─────────────┐              ┌─────────────┐
-       │   FRONTEND  │              │   BACKEND   │
-       │ React/Next  │              │ Node/Express│
-       └──────┬──────┘              └──────┬──────┘
-              │                            │
-              └──────────────┬─────────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │    DATABASE     │
-                    │ MongoDB / SQL   │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │   AUTOMATION    │
-                    │ n8n / Webhooks  │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │    DEVOPS       │
-                    │ Docker / AWS    │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │   PRODUCTION    │
-                    └─────────────────┘
+       💡 IDEA
+          │
+          ▼
+   🏗️ ARCHITECTURE
+          │
+     ┌────┴────┐
+     ▼         ▼
+  ⚛️ FRONT   🟢 BACK
+     │         │
+     └────┬────┘
+          ▼
+      🍃 DATABASE
+          │
+          ▼
+      🤖 AUTOMATION
+          │
+          ▼
+      🐳 DOCKER
+          │
+          ▼
+       ☁️ CLOUD
+          │
+          ▼
+      🚀 SHIP IT
 ```
+
+</div>
 
 ---
 
-# 🔥 MERN Stack
+# 🔥 MERN POWER
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-### MongoDB → Express.js → React → Node.js
+### MongoDB → Express → React → Node.js
 
-**One ecosystem. Full control. Production ready.**
+**Build fast. Scale smart. Ship confidently.**
 
 </div>
 
 ---
 
-# ⚙️ How I Work
+# ⚙️ Developer Mindset
 
 ```javascript
-const workflow = [
-  "Understand the problem",
-  "Design the architecture",
-  "Build the frontend",
-  "Engineer the backend",
-  "Design the database",
-  "Integrate APIs",
-  "Automate repetitive work",
-  "Containerize with Docker",
-  "Deploy to production",
-  "Monitor & scale"
-];
+const engineer = {
+  learn: true,
+  build: true,
+  automate: true,
+  scale: true,
+  ship: true
+};
 
-workflow.forEach(step => ship(step));
+while (engineer.learn) {
+  build();
+  automate();
+  scale();
+  ship();
+}
 ```
-
----
-
-# 🚀 Currently Building
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     CURRENT FOCUS                            │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ⚛️  Advanced MERN Applications                              │
-│  🚀  SaaS & Multi-Tenant Platforms                           │
-│  🤖  AI & Automation Integrations                            │
-│  🔗  API-First Architectures                                 │
-│  ☁️  Cloud & Production Infrastructure                       │
-│  📊  CRM / ERP / Business Systems                            │
-│  🐳  Dockerized Deployments                                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -573,21 +406,15 @@ workflow.forEach(step => ship(step));
 
 <div align="center">
 
-### 🔥 GitHub Streak
-
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=anasiqbal041&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FFD000&currStreakLabel=FF8C00&sideLabels=FF8C00&currStreakNum=FFD000&sideNums=FFB300"/>
 
-<br/><br/>
-
-### 📈 GitHub Stats
+<br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=anasiqbal041&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFD000&text_color=E6EDF3&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasiqbal041&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=E6EDF3&langs_count=8"/>
 
 <br/><br/>
-
-### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=anasiqbal041&theme=matrix&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
 
@@ -599,15 +426,13 @@ workflow.forEach(step => ship(step));
 
 <div align="center">
 
-| Certification                  | Organization        | Year |
-| ------------------------------ | ------------------- | ---- |
-| 🐳 Docker Essentials           | IBM Cognitive Class | 2024 |
-| 🐍 Python 101 for Data Science | IBM Cognitive Class | 2024 |
-| ☁️ Introduction to Cloud       | IBM Cognitive Class | 2024 |
+`🐳 Docker Essentials` • `🐍 Python 101 for Data Science` • `☁️ Introduction to Cloud`
 
-### 🎯 Currently Expanding
+**IBM Cognitive Class • 2024**
 
-`AWS` • `Kubernetes` • `Advanced DevOps` • `Cloud Architecture`
+<br/>
+
+`AWS` • `Kubernetes` • `Advanced DevOps` → **Currently Expanding**
 
 </div>
 
@@ -628,52 +453,24 @@ workflow.forEach(step => ship(step));
 <div align="center">
 
 <a href="https://github.com/anasiqbal041">
-
 <img src="https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=0D1117"/>
-
 </a>
 
 <a href="https://www.linkedin.com/">
-
 <img src="https://img.shields.io/badge/LinkedIn-FF6A00?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-
 </a>
 
 <a href="https://aquecer.com">
-
 <img src="https://img.shields.io/badge/Aquecer.com-FFD000?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
-
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🔥_Let's_build_something_together-DM_me_on_LinkedIn-FF6A00?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=anasiqbal041&label=PROFILE+VIEWS&color=FF8C00&style=for-the-badge"/>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-## 🔥 Build. Automate. Scale. Ship.
-
-```text
-while (alive) {
-    learn();
-    build();
-    automate();
-    scale();
-    ship();
-}
-```
-
-### "Building scalable systems that turn ideas into products."
-
-<br/>
+### 🔥 Build. Automate. Scale. Ship.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7A2E00,75:FF6A00,100:FFD000&height=100&section=footer&reversal=true"/>
 
