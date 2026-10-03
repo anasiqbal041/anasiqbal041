@@ -251,29 +251,29 @@ Server Management
 <tr>
 <td width="50%">
 
-## 🏪 POS & IMS
+## 🏥 Management Systems
 
-* Sales management
-* Inventory
-* Suppliers
-* Stock control
-* Reports
-* User permissions
-* Business analytics
+* Hospital management
+* Patient workflows
+* Staff management
+* Records management
+* Dashboards
+* Reporting
+* Role-based access
 
 </td>
 
 <td width="50%">
 
-## 🤖 Automation
+## 🤖 Automation & AI
 
 * n8n workflows
 * Webhooks
 * API orchestration
 * AI integrations
+* Chatbots
 * Email automation
 * CRM automation
-* Background jobs
 
 </td>
 </tr>
@@ -286,119 +286,181 @@ Server Management
 
 # 🏗️ Featured Projects
 
-> Production systems built solo and with engineering teams.
-
-### 🎓 Intern Ease
-
-**Internship Management Platform**
-
-`Django` `DRF` `PostgreSQL` `RBAC`
-
-* Student & organization portals
-* Internship management
-* Email notifications
-* Role-based access
-* Admin management
-
----
-
-### 🏔️ GDA Tourism
-
-**Complete Tourism Management Platform**
-
-`Django` `DRF` `PostgreSQL`
-
-* Attractions
-* Events
-* Dine & Stay
-* Tourism management
-* Admin dashboard
-* Content management
-
----
-
-### 🥜 Dry Fruit Store
-
-**Production E-Commerce Platform**
-
-`Django` `Python` `JavaScript`
-
-* Product catalog
-* Shopping cart
-* Checkout
-* Order management
-* Admin panel
-* Media management
-
----
-
-### 🌱 SeedsWild
-
-**Live Multi-Vendor SaaS Marketplace**
-
-`Django` `SaaS` `PostgreSQL`
-
-* Buyer / seller accounts
-* Multi-vendor architecture
-* Subscription system
-* Admin management
-* Marketplace workflows
-
----
-
-### 📐 FLD AI
-
-**AI / XR SaaS Platform**
-
-`Django` `XR` `SaaS`
-
-* Hand measurement
-* Subscription management
-* POS
-* Reporting
-* Access control
-* Business workflows
-
----
-
-### 🎬 Video Streaming
-
-**Modern Streaming SaaS**
-
-`TypeScript` `React` `Node.js`
-
-* Modern streaming architecture
-* Real-time delivery
-* Scalable frontend
-* API-driven backend
-* Media workflows
-
----
-
-### 🌐 Aquecer.com
-
-**Business Platform & SaaS**
-
-`JavaScript` `Node.js` `SaaS`
-
-* Business applications
-* Web platforms
-* Automation
-* API integrations
-* Scalable architecture
-
----
-
-# 💼 Where I've Built
+> Selected web applications, SaaS platforms, business systems and digital products I've worked on.
 
 <div align="center">
 
-| Company / Team     | Role                 | Key Deliveries                                        |
-| ------------------ | -------------------- | ----------------------------------------------------- |
-| **Exarth**         | CTO / Team Lead      | Intern Ease • GDA • E-Commerce • SeedsWild • Swari GB |
-| **Firnas.tech**    | Full Stack Developer | UK • UAE • Australia • Qatar Projects                 |
-| **TechKnock.Tech** | CTO / Team Lead      | LMS • CRM • E-Commerce • n8n                          |
-| **Aquecer.com**    | Full Stack Developer | Web Apps • SaaS • Automation                          |
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🚗 AutoFinder.pk
+
+**Automotive Marketplace / Platform**
+
+A modern automotive platform focused on connecting users with vehicle listings, discovery and business workflows.
+
+`Full Stack` `Web Platform` `Marketplace`
+
+</td>
+
+<td width="50%">
+
+## 💻 Codeova.pk
+
+**Modern Digital Platform**
+
+A full-stack web platform focused on delivering modern digital experiences and scalable application workflows.
+
+`Full Stack` `Web Application` `SaaS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🍣 Sushihanai
+
+**Food / Restaurant Platform**
+
+A modern web experience designed around restaurant, food and customer-facing workflows.
+
+`Web Application` `E-Commerce` `Responsive UI`
+
+</td>
+
+<td width="50%">
+
+## 🚘 Karzone
+
+**Automotive Platform**
+
+A vehicle-focused digital platform with modern web interfaces and business management workflows.
+
+`Full Stack` `Automotive` `Web Platform`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛵 DoorDash
+
+**Delivery Platform**
+
+A delivery-focused application concept involving customers, orders, delivery workflows and platform operations.
+
+`Full Stack` `Delivery` `Web Application`
+
+</td>
+
+<td width="50%">
+
+## 🏢 Burak
+
+**Business Web Platform**
+
+A full-stack business application designed around modern digital workflows and scalable web architecture.
+
+`Full Stack` `Business Platform` `SaaS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎓 LMS System
+
+**Learning Management System**
+
+A complete learning platform focused on courses, students, instructors, enrollment and educational workflows.
+
+`MERN` `LMS` `Dashboard`
+
+</td>
+
+<td width="50%">
+
+## 🏥 Hospital Management System
+
+**Healthcare Management Platform**
+
+A management system designed to organize hospital workflows, users, records, operations and administrative processes.
+
+`Full Stack` `Management System` `Dashboard`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 CRM System
+
+**Customer Relationship Management**
+
+A business CRM focused on leads, customers, sales pipelines, team workflows, reporting and automation.
+
+`MERN` `CRM` `REST APIs`
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Chatbot
+
+**Intelligent Conversational Platform**
+
+A chatbot system integrating modern AI workflows with web applications, APIs and automated interactions.
+
+`AI` `APIs` `Automation`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛒 AMCGlt E-Commerce
+
+**E-Commerce Platform**
+
+A modern commerce platform focused on product management, customers, orders and online business workflows.
+
+`E-Commerce` `Full Stack` `Admin Panel`
+
+</td>
+
+<td width="50%">
+
+## 🇦🇹 Vienna Job Portal
+
+**Job & Recruitment Platform**
+
+A job portal connecting candidates and opportunities through modern search, job management and recruitment workflows.
+
+`Full Stack` `Job Portal` `Web Application`
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
