@@ -2,19 +2,19 @@
 
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:0F3D2E,100:00FF88&text=Anas%20Iqbal041&fontSize=62&fontColor=00FF88&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20DevOps%20%7C%20SaaS%20%7C%20Automation&descAlignY=58&descSize=18&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:3B0000,100:FF1744&text=Anas%20Iqbal041&fontSize=62&fontColor=FF1744&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20DevOps%20%7C%20SaaS%20%7C%20Automation&descAlignY=58&descSize=18&descAlign=50"/>
 
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&multiline=true&width=920&height=80&lines=Building+SaaS+%26+CRM+Platforms;Automating+with+n8n+%26+APIs;Shipping+Scalable+Web+Systems;Open+to+Collaboration+%26+Remote+Work"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&multiline=true&width=920&height=80&lines=Building+SaaS+%26+CRM+Platforms;Automating+with+n8n+%26+APIs;Shipping+Scalable+Web+Systems;Open+to+Collaboration+%26+Remote+Work"/>
 
 <br/>
 
 <!-- Status Badges -->
 
-<img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/📍_LOCATION-ISLAMABAD,_PK-00FF88?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-REMOTE_•_RELOCATION-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-FF1744?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📍_LOCATION-ISLAMABAD,_PK-FF1744?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-REMOTE_•_RELOCATION-FF1744?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -573,17 +573,23 @@ workflow.forEach(step => ship(step));
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Iqbal041&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"/>
+### ⚡ GitHub Streak
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=anasiqbal041&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744"/>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anas-Iqbal041&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+### 📈 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Iqbal041&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=c9d1d9&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anasiqbal041&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasiqbal041&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FF1744&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anas-Iqbal041&theme=matrix&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=anasiqbal041&theme=matrix&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
 
 </div>
 
@@ -611,7 +617,7 @@ workflow.forEach(step => ship(step));
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anas-Iqbal041/AnasIqbal041/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/anasiqbal041/anasiqbal041/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -621,31 +627,31 @@ workflow.forEach(step => ship(step));
 
 <div align="center">
 
-<a href="https://github.com/Anas-Iqbal041">
+<a href="https://github.com/anasiqbal041">
 
-<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-FF1744?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </a>
 
 <a href="https://www.linkedin.com/">
 
-<img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF1744?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 
 </a>
 
 <a href="https://aquecer.com">
 
-<img src="https://img.shields.io/badge/Aquecer.com-00FF88?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Aquecer.com-FF1744?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💬_Let's_build_something_together-DM_me_on_LinkedIn-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💬_Let's_build_something_together-DM_me_on_LinkedIn-FF1744?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anas-Iqbal041&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=anasiqbal041&label=PROFILE+VIEWS&color=FF1744&style=for-the-badge"/>
 
 </div>
 
@@ -653,7 +659,7 @@ workflow.forEach(step => ship(step));
 
 <div align="center">
 
-## 💚 Build. Automate. Scale. Ship.
+## ❤️ Build. Automate. Scale. Ship.
 
 ```text
 while (alive) {
@@ -669,6 +675,6 @@ while (alive) {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF88&height=100&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF1744&height=100&section=footer&reversal=true"/>
 
 </div>
