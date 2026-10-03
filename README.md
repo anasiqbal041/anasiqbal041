@@ -251,12 +251,12 @@ Server Management
 <tr>
 <td width="50%">
 
-## 🏥 Management Systems
+## 🏥 Healthcare Systems
 
-* Hospital management
+* Hospital websites
 * Patient workflows
 * Staff management
-* Records management
+* Healthcare information
 * Dashboards
 * Reporting
 * Role-based access
@@ -300,9 +300,9 @@ Server Management
 
 **Automotive Marketplace / Platform**
 
-A modern automotive platform focused on connecting users with vehicle listings, discovery and business workflows.
+A modern automotive platform focused on vehicle discovery, listings and automotive business workflows.
 
-`Full Stack` `Web Platform` `Marketplace`
+`Full Stack` `Automotive` `Marketplace`
 
 </td>
 
@@ -312,9 +312,9 @@ A modern automotive platform focused on connecting users with vehicle listings, 
 
 **Modern Digital Platform**
 
-A full-stack web platform focused on delivering modern digital experiences and scalable application workflows.
+A full-stack digital platform built around modern web experiences, application workflows and scalable architecture.
 
-`Full Stack` `Web Application` `SaaS`
+`Full Stack` `Web Platform` `SaaS`
 
 </td>
 
@@ -326,11 +326,11 @@ A full-stack web platform focused on delivering modern digital experiences and s
 
 ## 🍣 Sushihanai
 
-**Food / Restaurant Platform**
+**Restaurant & Food Platform**
 
-A modern web experience designed around restaurant, food and customer-facing workflows.
+A modern restaurant-focused web experience designed around food, customer interaction and digital business workflows.
 
-`Web Application` `E-Commerce` `Responsive UI`
+`Full Stack` `Restaurant` `Web Application`
 
 </td>
 
@@ -340,7 +340,7 @@ A modern web experience designed around restaurant, food and customer-facing wor
 
 **Automotive Platform**
 
-A vehicle-focused digital platform with modern web interfaces and business management workflows.
+A vehicle-focused digital platform with modern interfaces, automotive workflows and business functionality.
 
 `Full Stack` `Automotive` `Web Platform`
 
@@ -354,9 +354,9 @@ A vehicle-focused digital platform with modern web interfaces and business manag
 
 ## 🛵 DoorDash
 
-**Delivery Platform**
+**Food Delivery Platform**
 
-A delivery-focused application concept involving customers, orders, delivery workflows and platform operations.
+A delivery-focused platform involving customers, restaurants, orders and delivery workflows.
 
 `Full Stack` `Delivery` `Web Application`
 
@@ -368,7 +368,7 @@ A delivery-focused application concept involving customers, orders, delivery wor
 
 **Business Web Platform**
 
-A full-stack business application designed around modern digital workflows and scalable web architecture.
+A modern full-stack business application designed around scalable web architecture and digital workflows.
 
 `Full Stack` `Business Platform` `SaaS`
 
@@ -396,9 +396,9 @@ A complete learning platform focused on courses, students, instructors, enrollme
 
 **Healthcare Management Platform**
 
-A management system designed to organize hospital workflows, users, records, operations and administrative processes.
+A full-stack hospital management solution focused on healthcare operations, patient workflows, staff management and administrative processes.
 
-`Full Stack` `Management System` `Dashboard`
+`Full Stack` `Healthcare` `Management System`
 
 </td>
 
@@ -424,7 +424,7 @@ A business CRM focused on leads, customers, sales pipelines, team workflows, rep
 
 **Intelligent Conversational Platform**
 
-A chatbot system integrating modern AI workflows with web applications, APIs and automated interactions.
+An AI-powered chatbot integrating modern AI services, APIs and automated conversational workflows.
 
 `AI` `APIs` `Automation`
 
@@ -436,25 +436,25 @@ A chatbot system integrating modern AI workflows with web applications, APIs and
 
 <td width="50%">
 
-## 🛒 AMCGlt E-Commerce
+## 🏥 AMCGlt
 
-**E-Commerce Platform**
+**Hospital & Healthcare Website**
 
-A modern commerce platform focused on product management, customers, orders and online business workflows.
+A modern hospital website focused on healthcare services, hospital information, patient-facing experiences and digital healthcare workflows.
 
-`E-Commerce` `Full Stack` `Admin Panel`
+`Healthcare` `Hospital Website` `Full Stack`
 
 </td>
 
 <td width="50%">
 
-## 🇦🇹 Vienna Job Portal
+## 🇦🇹 Vienna Travel Agency
 
-**Job & Recruitment Platform**
+**Travel & Tourism Platform**
 
-A job portal connecting candidates and opportunities through modern search, job management and recruitment workflows.
+A modern travel agency website focused on destinations, travel services, packages and customer inquiries.
 
-`Full Stack` `Job Portal` `Web Application`
+`Travel Agency` `Tourism` `Web Platform`
 
 </td>
 
